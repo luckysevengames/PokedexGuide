@@ -1,0 +1,6 @@
+framework module Pods_PokedexGuid_by_LuckySevenGames {
+  umbrella header "Pods-PokedexGuid-by-LuckySevenGames-umbrella.h"
+
+  export *
+  module * { export * }
+}
